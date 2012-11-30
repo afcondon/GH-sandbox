@@ -6,7 +6,7 @@ three
 four
 five - edit on GH-Mac side
 six
-seven
+seven - generate a problem GH-Mac edit
 eight - edit back on the gitbox side
 nine
 ten
