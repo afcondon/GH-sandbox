@@ -7,6 +7,6 @@ four
 five - edit on GH-Mac side
 six
 seven
-eight
+eight - edit back on the gitbox side
 nine
 ten
